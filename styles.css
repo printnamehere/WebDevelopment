@@ -1,0 +1,22 @@
+body {
+  background-color: #FFDAC7;
+}
+hr {
+border-color: grey;
+border-width: 5px;
+border-style: dotted none none;
+height: 0px;
+width:10%;
+}
+
+h1 {
+color: #810034;
+box-sizing: border-box;
+font-family: fantasy;
+}
+
+h3 {
+  color: #810034;
+  box-sizing: border-box;
+  font-family: Times;
+}
