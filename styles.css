@@ -46,7 +46,7 @@ div {
 .C {
   height: auto;
   width: auto;
-  padding: auto;
+  padding: 10px;
   border: solid 20px;
-  margin: 20px;
+  margin: 10px;
 }
