@@ -20,3 +20,33 @@ h3 {
   box-sizing: border-box;
   font-family: Times;
 }
+
+div {
+  height: auto;
+  width: auto
+  padding: auto;
+}
+
+.A {
+  height: auto;
+  width: auto;
+  padding: auto;
+  border: solid 20px;
+  margin: 20px;
+}
+
+.B {
+  height: auto;
+  width: auto;
+  padding: auto;
+  border: solid 20px;
+  margin: 20px;
+}
+
+.C {
+  height: auto;
+  width: auto;
+  padding: auto;
+  border: solid 20px;
+  margin: 20px;
+}
