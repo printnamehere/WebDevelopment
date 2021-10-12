@@ -1,29 +1,27 @@
 body {
   background-color: #FFDAC7;
+  text-align: center;
 }
 hr {
 border-color: grey;
 border-width: 5px;
 border-style: dotted none none;
-height: 0px;
 width:10%;
 }
 
 h1 {
 color: #810034;
-box-sizing: border-box;
 font-family: fantasy;
 }
 
 h3 {
   color: #810034;
-  box-sizing: border-box;
   font-family: Times;
 }
 
 div {
   height: auto;
-  width: auto
+  width: auto;
   padding: auto;
 }
 
@@ -49,4 +47,8 @@ div {
   padding: 10px;
   border: solid 20px;
   margin: 10px;
+}
+
+#table {
+  margin: 0 auto 0 auto;
 }
