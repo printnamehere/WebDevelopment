@@ -1,6 +1,8 @@
 body {
   background-color: #FFDAC7;
   text-align: center;
+  font-family: 'Rye', cursive;
+
 }
 hr {
 border-color: grey;
@@ -11,12 +13,12 @@ width:10%;
 
 h1 {
 color: #810034;
-font-family: fantasy;
+font-family: 'Press Start 2P', cursive;
 }
 
 h3 {
   color: #810034;
-  font-family: Times;
+  font-family: 'Press Start 2P', cursive;
 }
 
 div {
