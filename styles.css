@@ -57,11 +57,11 @@ div {
 
 .button {
    background: #F3C992;
-   background-image: -webkit-linear-gradient(top, #F3C992, #CBA55D);
-   background-image: -moz-linear-gradient(top, #F3C992, #CBA55D);
-   background-image: -ms-linear-gradient(top, #F3C992, #CBA55D);
-   background-image: -o-linear-gradient(top, #F3C992, #CBA55D);
-   background-image: -webkit-gradient(to bottom, #F3C992, #CBA55D);
+   background-image: -webkit-linear-gradient(top, #F3C992, #F3BC53);
+   background-image: -moz-linear-gradient(top, #F3C992, #F3BC53);
+   background-image: -ms-linear-gradient(top, #F3C992, #F3BC53);
+   background-image: -o-linear-gradient(top, #F3C992, #F3BC53);
+   background-image: -webkit-gradient(to bottom, #F3C992, #F3BC53);
    -webkit-border-radius: 20px;
    -moz-border-radius: 20px;
    border-radius: 20px;
