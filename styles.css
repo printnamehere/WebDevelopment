@@ -54,3 +54,38 @@ div {
 #table {
   margin: 0 auto 0 auto;
 }
+
+.button {
+   background: #F3C992;
+   background-image: -webkit-linear-gradient(top, #F3C992, #CBA55D);
+   background-image: -moz-linear-gradient(top, #F3C992, #CBA55D);
+   background-image: -ms-linear-gradient(top, #F3C992, #CBA55D);
+   background-image: -o-linear-gradient(top, #F3C992, #CBA55D);
+   background-image: -webkit-gradient(to bottom, #F3C992, #CBA55D);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #FFFFFF;
+   font-family: Brush Script MT;
+   font-size: 24px;
+   font-weight: 100;
+   padding: 15px;
+   -webkit-box-shadow: 1px 1px 20px 0 #362C2A;
+   -moz-box-shadow: 1px 1px 20px 0 #362C2A;
+   box-shadow: 1px 1px 20px 0 #362C2A;
+   text-shadow: 1px 1px 20px #000000;
+   border: solid #F9F3E7 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.button:hover {
+   background: #EFCF25;
+   border: solid #FFFFFF 1px;
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
