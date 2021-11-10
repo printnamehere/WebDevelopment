@@ -13,12 +13,14 @@ width:10%;
 
 h1 {
 color: #810034;
-font-family: 'V323', cursive;
+font-family: 'V323', monospace;
+font-size: 6rem;
 }
 
 h3 {
   color: #810034;
-  font-family: 'V323', cursive;
+  font-family: 'V323', monospace;
+  font-size: 2rem;
 }
 
 div {
